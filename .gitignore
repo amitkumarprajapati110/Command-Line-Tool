@@ -1,0 +1,7 @@
+todo.txt
+shell_test
+*.out
+test_space/
+build/
+.vscode/
+.results/
